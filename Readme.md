@@ -42,12 +42,14 @@ This project showcases a dynamic and interactive Power BI dashboard developed to
 ---
 
 ## 📷 Dashboard Preview
+![preview](https://github.com/user-attachments/assets/d06215f1-b123-4ae1-a1ad-251fb456c373)
 
-![Teciton Dashboard Preview]
-![alt text](preview.gif)
-![alt text](Dashboard.png)
-![alt text](Male.png)
-![alt text](Female.png)
+![Dashboard](https://github.com/user-attachments/assets/03efc328-8553-4a7a-987e-50b0767b24dc)
+
+![Female](https://github.com/user-attachments/assets/54ca0dbe-483c-4aa3-b961-8d669d10aab6)
+
+![Male](https://github.com/user-attachments/assets/3400025b-1148-4df4-a1e7-990367fb723a)
+
 
 ---
 
